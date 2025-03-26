@@ -7,7 +7,14 @@ const Footer = () => {
             <div className="footerContent">
                 <div className="footerCont1">
                     <div className="contentFooterTitle">Get To Know Us</div>
-                    {/* please watch the video for code */}
+                   
+                    <div className="contentFooterSubTitlediv">
+                        <div className="contentFooterSubTitleCont">About</div>
+                        <div className="contentFooterSubTitleCont">Careers</div>
+                        <div className="contentFooterSubTitleCont">Pree Releases</div>
+                        <div className="contentFooterSubTitleCont">Amazon Science</div>
+
+                    </div>
 
                 </div>
                 <div className="footerCont1">
@@ -21,8 +28,13 @@ const Footer = () => {
 
                 <div className="footerCont1">
                     <div className="contentFooterTitle">Make Money With US</div>
-                    {/* please watch the video for code */}
-                </div>
+                    <div className="contentFooterSubTitleCont">Sell on Amazon</div>
+                    <div className="contentFooterSubTitleCont">Sell under Amazon Accelerator</div>
+                    <div className="contentFooterSubTitleCont">Protuct and Build Your Brand</div>
+                    <div className="contentFooterSubTitleCont">Amazon Global Selling</div>
+                    <div className="contentFooterSubTitleCont">Facebook</div>
+                    <div className="contentFooterSubTitleCont">Facebook</div>
+                    </div>
                 
                 <div className="footerCont1">
                     <div className="contentFooterTitle">Lets Us Help You</div>
